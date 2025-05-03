@@ -39,10 +39,10 @@ En esta actividad, implementarás un servidor HTTP básico utilizando Node.js. E
    cd servidor-mercado-liebre
    ```
 
-### 3. Instalar Dependencias
+### 3. Iinializar
 
 ```bash
-npm install
+npm init -y
 ```
 
 ## Tareas a Implementar
